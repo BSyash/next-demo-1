@@ -1,0 +1,100 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "events": "event 1",
+            "eventDate": "15 March",
+            "category": "sports"
+        },
+        {
+            "id": 2,
+            "events": "event 2",
+            "eventDate": "17 March",
+            "category": "sports"
+        },
+        {
+            "id": 3,
+            "events": "event 3",
+            "eventDate": "10 April",
+            "category": "politics"
+        },
+        {
+            "id": 4,
+            "events": "event 4",
+            "eventDate": "21 April",
+            "category": "tech"
+        },
+        {
+            "id": 5,
+            "events": "event 5",
+            "eventDate": "29 April",
+            "category": "tech"
+        },
+        {
+            "id": 6,
+            "events": "event 6",
+            "eventDate": "09 June ",
+            "category": "politics"
+        },
+        {
+            "id": 7,
+            "events": "event 1",
+            "eventDate": "15 March",
+            "category": "sports"
+        }
+    ],
+    "dashboard": [
+        {
+            "posts": 6,
+            "likes": 124,
+            "followers": 259,
+            "following": 2
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "product 1",
+            "price": 320,
+            "description": "Description 1"
+        },
+        {
+            "id": 2,
+            "title": "product 2",
+            "price": 480,
+            "description": "Description 2"
+        },
+        {
+            "id": 3,
+            "title": "product 3",
+            "price": 250,
+            "description": "Description 3"
+        }
+    ],
+    "news": [
+        {
+            "id": 1,
+            "title": "News Article 1",
+            "description": "Description 3",
+            "category": "sports"
+        },
+        {
+            "id": 2,
+            "title": "News Article 2",
+            "description": "Description 2",
+            "category": "politics"
+        },
+        {
+            "id": 3,
+            "title": "News Article 3",
+            "description": "Description 3",
+            "category": "sports"
+        },
+        {
+            "id": 4,
+            "title": "News Article 4",
+            "description": "Description 4",
+            "category": "tech"
+        }
+    ]
+}
